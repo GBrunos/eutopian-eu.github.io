@@ -4,7 +4,7 @@ subtitle:
 email:
 description: Osservatorio europeo sull'innovazione democratica
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://eutopian-eu.github.io" # the base hostname & protocol for your site
+url: "https://eutopian.eu" # the base hostname & protocol for your site
 author:
 street_address: Via Umberto Guarnieri 4
 city: Roma
