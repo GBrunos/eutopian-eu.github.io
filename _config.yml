@@ -14,16 +14,12 @@ country:
 phone:
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url:
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+facebook_url: https://fb.me/eutopian.eu
+github_url: https://github.com/eutopian-eu
+instagram_url: https://www.instagram.com/ass.eutopian/
+linkedin_url: https://www.linkedin.com/company/eutopian/
+twitter_url: https://twitter.com/eutopian_eu
+
 
 # build settings
 markdown: kramdown
