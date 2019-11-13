@@ -1,7 +1,7 @@
 # site settings
 title: Eutopian
 subtitle:
-email:
+email: eutopian.eu@gmail.com
 description: Osservatorio europeo sull'innovazione democratica
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://eutopian.eu" # the base hostname & protocol for your site
