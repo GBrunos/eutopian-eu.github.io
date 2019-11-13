@@ -14,11 +14,11 @@ country:
 phone:
 
 # social settings
-facebookg: https://fb.me/eutopian.eu
-githubg: https://github.com/eutopian-eu
-instagramg: https://www.instagram.com/ass.eutopian/
-linkeding: https://www.linkedin.com/company/eutopian/
-twitterg: https://twitter.com/eutopian_eu
+facebook: https://fb.me/eutopian.eu
+github: https://github.com/eutopian-eu
+instagram: https://www.instagram.com/ass.eutopian/
+linkedin: https://www.linkedin.com/company/eutopian/
+twitter: https://twitter.com/eutopian_eu
 
 # build settings
 markdown: kramdown
