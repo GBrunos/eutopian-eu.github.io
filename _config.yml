@@ -10,7 +10,7 @@ author:
 street_address: Via Umberto Guarnieri 4
 city: Roma
 state:
-zip_code: 00177
+zip_code: "00177"
 country:
 phone:
 
