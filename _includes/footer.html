@@ -1,23 +1,24 @@
 <!-- Footer -->
 <section id="footer">
   <div class="inner">
-    <h2 class="major">Get in touch</h2>
-    <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-    <form method="post" action="#">
+    <h2 class="major">Contattaci</h2>
+    <p>Scrivici un messaggio o seguici sui nostri canali social.</p>
+    <form name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
       <div class="field">
-        <label for="name">Name</label>
-        <input type="text" name="name" id="name" />
+        <label for="full-name">Nome</label>
+        <input type="text" name="name" id="full-name" />
       </div>
       <div class="field">
-        <label for="email">Email</label>
-        <input type="email" name="email" id="email" />
+        <label for="email-address">Email</label>
+        <input type="email" name="_replyto" id="email-address" required="" />
       </div>
       <div class="field">
-        <label for="message">Message</label>
-        <textarea name="message" id="message" rows="4"></textarea>
+        <label for="message">Messaggio</label>
+        <textarea name="message" id="message" rows="4" required=""></textarea>
       </div>
+      <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
       <ul class="actions">
-        <li><input type="submit" value="Send Message" /></li>
+        <li><input type="submit" value="Invia" /></li>
       </ul>
     </form>
     <ul class="contact">
