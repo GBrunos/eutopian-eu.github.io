@@ -25,11 +25,11 @@ twitter: https://twitter.com/eutopian_eu
 markdown: kramdown
 
 menus:
-  - Home: "/index.html"
-  - Generic: "/generic.html"
-  - Elements: "/elements.html"
-  - Log in: "#"
-  - Sign up: "#"
+  - Home: "/"
+  - Chi Siamo: "/features/chi-siamo.html"
+  - Manifesto: "/features/manifesto.html"
+  - Statuto: "/features/statuto.html"
+  - Diventa Socio: "/features/diventa-socio.html"
 
 sass:
   style: compressed
